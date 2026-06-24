@@ -1,26 +1,26 @@
 {
- "generated": "2026-06-23 18:31 UTC",
+ "generated": "2026-06-24 04:30 UTC",
  "scorecard": {
-  "played": 44,
+  "played": 45,
   "total": 72,
-  "acc": 61.4,
-  "logloss": 0.846,
-  "brier": 0.511
+  "acc": 62.2,
+  "logloss": 0.837,
+  "brier": 0.504
  },
  "champions": [
   {
    "team": "Argentina",
-   "p": 22.4,
+   "p": 22.2,
    "group": "J"
   },
   {
    "team": "Spain",
-   "p": 16.9,
+   "p": 16.5,
    "group": "H"
   },
   {
    "team": "England",
-   "p": 9.4,
+   "p": 10.0,
    "group": "L"
   },
   {
@@ -30,13 +30,8 @@
   },
   {
    "team": "Brazil",
-   "p": 6.6,
+   "p": 6.4,
    "group": "C"
-  },
-  {
-   "team": "Germany",
-   "p": 5.8,
-   "group": "E"
   },
   {
    "team": "Portugal",
@@ -44,13 +39,18 @@
    "group": "K"
   },
   {
+   "team": "Germany",
+   "p": 5.5,
+   "group": "E"
+  },
+  {
    "team": "Colombia",
-   "p": 4.8,
+   "p": 5.1,
    "group": "K"
   },
   {
    "team": "Netherlands",
-   "p": 3.6,
+   "p": 3.4,
    "group": "F"
   },
   {
@@ -65,7 +65,7 @@
   },
   {
    "team": "Norway",
-   "p": 2.3,
+   "p": 2.4,
    "group": "I"
   },
   {
@@ -75,7 +75,7 @@
   },
   {
    "team": "Japan",
-   "p": 1.3,
+   "p": 1.4,
    "group": "F"
   },
   {
@@ -85,7 +85,7 @@
   },
   {
    "team": "Mexico",
-   "p": 0.8,
+   "p": 0.9,
    "group": "A"
   }
  ],
@@ -97,7 +97,7 @@
      "team": "Mexico",
      "p_adv": 100.0,
      "p_win": 92.8,
-     "p_champ": 0.8
+     "p_champ": 0.9
     },
     {
      "team": "South Korea",
@@ -115,7 +115,7 @@
      "team": "Czech Republic",
      "p_adv": 10.8,
      "p_win": 0.0,
-     "p_champ": 0.0
+     "p_champ": 0.1
     }
    ],
    "matches": [
@@ -126,12 +126,12 @@
      "sortkey": "2026-06-11 15:00",
      "home": "Mexico",
      "away": "South Africa",
-     "p1": 0.64,
-     "px": 0.234,
+     "p1": 0.639,
+     "px": 0.235,
      "p2": 0.126,
-     "lh": 1.85,
+     "lh": 1.84,
      "la": 0.78,
-     "exp": "1.9–0.8",
+     "exp": "1.8–0.8",
      "pred_score": "1-0",
      "pred_out": "1",
      "played": true,
@@ -145,10 +145,10 @@
      "sortkey": "2026-06-11 22:00",
      "home": "South Korea",
      "away": "Czech Republic",
-     "p1": 0.349,
-     "px": 0.276,
-     "p2": 0.375,
-     "lh": 1.39,
+     "p1": 0.348,
+     "px": 0.277,
+     "p2": 0.374,
+     "lh": 1.38,
      "la": 1.44,
      "exp": "1.4–1.4",
      "pred_score": "1-1",
@@ -164,11 +164,11 @@
      "sortkey": "2026-06-18 12:00",
      "home": "Czech Republic",
      "away": "South Africa",
-     "p1": 0.513,
-     "px": 0.271,
+     "p1": 0.512,
+     "px": 0.272,
      "p2": 0.216,
-     "lh": 1.62,
-     "la": 1.03,
+     "lh": 1.61,
+     "la": 1.02,
      "exp": "1.6–1.0",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -183,12 +183,12 @@
      "sortkey": "2026-06-18 21:00",
      "home": "Mexico",
      "away": "South Korea",
-     "p1": 0.514,
-     "px": 0.267,
+     "p1": 0.513,
+     "px": 0.268,
      "p2": 0.219,
-     "lh": 1.65,
-     "la": 1.06,
-     "exp": "1.7–1.1",
+     "lh": 1.64,
+     "la": 1.05,
+     "exp": "1.6–1.1",
      "pred_score": "1-1",
      "pred_out": "1",
      "played": true,
@@ -202,11 +202,11 @@
      "sortkey": "2026-06-24 21:00",
      "home": "Mexico",
      "away": "Czech Republic",
-     "p1": 0.511,
-     "px": 0.259,
+     "p1": 0.51,
+     "px": 0.26,
      "p2": 0.23,
-     "lh": 1.73,
-     "la": 1.15,
+     "lh": 1.72,
+     "la": 1.14,
      "exp": "1.7–1.1",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -219,9 +219,9 @@
      "sortkey": "2026-06-24 21:00",
      "home": "South Africa",
      "away": "South Korea",
-     "p1": 0.225,
-     "px": 0.287,
-     "p2": 0.489,
+     "p1": 0.224,
+     "px": 0.288,
+     "p2": 0.488,
      "lh": 0.98,
      "la": 1.49,
      "exp": "1.0–1.5",
@@ -237,18 +237,18 @@
     {
      "team": "Canada",
      "p_adv": 99.9,
-     "p_win": 54.2,
+     "p_win": 54.3,
      "p_champ": 0.6
     },
     {
      "team": "Switzerland",
-     "p_adv": 98.5,
-     "p_win": 45.8,
+     "p_adv": 98.6,
+     "p_win": 45.7,
      "p_champ": 1.6
     },
     {
      "team": "Bosnia and Herzegovina",
-     "p_adv": 1.6,
+     "p_adv": 1.5,
      "p_win": 0.0,
      "p_champ": 0.0
     },
@@ -267,10 +267,10 @@
      "sortkey": "2026-06-12 15:00",
      "home": "Canada",
      "away": "Bosnia and Herzegovina",
-     "p1": 0.649,
-     "px": 0.21,
+     "p1": 0.648,
+     "px": 0.211,
      "p2": 0.141,
-     "lh": 2.13,
+     "lh": 2.12,
      "la": 0.99,
      "exp": "2.1–1.0",
      "pred_score": "2-0",
@@ -286,12 +286,12 @@
      "sortkey": "2026-06-13 15:00",
      "home": "Qatar",
      "away": "Switzerland",
-     "p1": 0.035,
-     "px": 0.086,
-     "p2": 0.878,
+     "p1": 0.036,
+     "px": 0.087,
+     "p2": 0.877,
      "lh": 0.78,
-     "la": 3.37,
-     "exp": "0.8–3.4",
+     "la": 3.35,
+     "exp": "0.8–3.3",
      "pred_score": "0-3",
      "pred_out": "2",
      "played": true,
@@ -305,12 +305,12 @@
      "sortkey": "2026-06-18 15:00",
      "home": "Switzerland",
      "away": "Bosnia and Herzegovina",
-     "p1": 0.715,
-     "px": 0.185,
+     "p1": 0.713,
+     "px": 0.186,
      "p2": 0.101,
-     "lh": 2.28,
+     "lh": 2.27,
      "la": 0.85,
-     "exp": "2.3–0.9",
+     "exp": "2.3–0.8",
      "pred_score": "2-0",
      "pred_out": "1",
      "played": true,
@@ -324,10 +324,10 @@
      "sortkey": "2026-06-18 18:00",
      "home": "Canada",
      "away": "Qatar",
-     "p1": 0.834,
-     "px": 0.11,
+     "p1": 0.833,
+     "px": 0.111,
      "p2": 0.055,
-     "lh": 3.15,
+     "lh": 3.13,
      "la": 0.91,
      "exp": "3.1–0.9",
      "pred_score": "3-0",
@@ -344,10 +344,10 @@
      "home": "Canada",
      "away": "Switzerland",
      "p1": 0.292,
-     "px": 0.251,
-     "p2": 0.457,
-     "lh": 1.42,
-     "la": 1.77,
+     "px": 0.252,
+     "p2": 0.456,
+     "lh": 1.41,
+     "la": 1.76,
      "exp": "1.4–1.8",
      "pred_score": "1-1",
      "pred_out": "2",
@@ -360,11 +360,11 @@
      "sortkey": "2026-06-24 15:00",
      "home": "Bosnia and Herzegovina",
      "away": "Qatar",
-     "p1": 0.547,
-     "px": 0.241,
+     "p1": 0.546,
+     "px": 0.243,
      "p2": 0.211,
-     "lh": 1.89,
-     "la": 1.18,
+     "lh": 1.88,
+     "la": 1.17,
      "exp": "1.9–1.2",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -377,20 +377,20 @@
    "teams": [
     {
      "team": "Morocco",
-     "p_adv": 98.6,
-     "p_win": 38.0,
+     "p_adv": 98.4,
+     "p_win": 37.9,
      "p_champ": 3.1
     },
     {
      "team": "Brazil",
      "p_adv": 85.8,
-     "p_win": 59.1,
-     "p_champ": 6.6
+     "p_win": 59.0,
+     "p_champ": 6.4
     },
     {
      "team": "Scotland",
      "p_adv": 15.7,
-     "p_win": 2.9,
+     "p_win": 3.1,
      "p_champ": 0.2
     },
     {
@@ -409,9 +409,9 @@
      "home": "Brazil",
      "away": "Morocco",
      "p1": 0.403,
-     "px": 0.337,
-     "p2": 0.26,
-     "lh": 1.15,
+     "px": 0.338,
+     "p2": 0.259,
+     "lh": 1.14,
      "la": 0.89,
      "exp": "1.1–0.9",
      "pred_score": "1-0",
@@ -427,11 +427,11 @@
      "sortkey": "2026-06-13 21:00",
      "home": "Haiti",
      "away": "Scotland",
-     "p1": 0.108,
-     "px": 0.186,
-     "p2": 0.706,
-     "lh": 0.91,
-     "la": 2.3,
+     "p1": 0.109,
+     "px": 0.187,
+     "p2": 0.704,
+     "lh": 0.9,
+     "la": 2.29,
      "exp": "0.9–2.3",
      "pred_score": "0-2",
      "pred_out": "2",
@@ -446,11 +446,11 @@
      "sortkey": "2026-06-19 18:00",
      "home": "Scotland",
      "away": "Morocco",
-     "p1": 0.178,
-     "px": 0.314,
-     "p2": 0.507,
-     "lh": 0.73,
-     "la": 1.33,
+     "p1": 0.179,
+     "px": 0.316,
+     "p2": 0.505,
+     "lh": 0.72,
+     "la": 1.32,
      "exp": "0.7–1.3",
      "pred_score": "0-1",
      "pred_out": "2",
@@ -466,9 +466,9 @@
      "home": "Brazil",
      "away": "Haiti",
      "p1": 0.921,
-     "px": 0.06,
-     "p2": 0.018,
-     "lh": 3.63,
+     "px": 0.061,
+     "p2": 0.019,
+     "lh": 3.61,
      "la": 0.61,
      "exp": "3.6–0.6",
      "pred_score": "3-0",
@@ -485,10 +485,10 @@
      "home": "Scotland",
      "away": "Brazil",
      "p1": 0.127,
-     "px": 0.224,
-     "p2": 0.648,
-     "lh": 0.83,
-     "la": 1.94,
+     "px": 0.225,
+     "p2": 0.647,
+     "lh": 0.82,
+     "la": 1.93,
      "exp": "0.8–1.9",
      "pred_score": "0-1",
      "pred_out": "2",
@@ -501,11 +501,11 @@
      "sortkey": "2026-06-24 18:00",
      "home": "Morocco",
      "away": "Haiti",
-     "p1": 0.821,
-     "px": 0.136,
+     "p1": 0.82,
+     "px": 0.137,
      "p2": 0.043,
-     "lh": 2.48,
-     "la": 0.54,
+     "lh": 2.47,
+     "la": 0.53,
      "exp": "2.5–0.5",
      "pred_score": "2-0",
      "pred_out": "1",
@@ -519,20 +519,20 @@
     {
      "team": "United States",
      "p_adv": 100.0,
-     "p_win": 98.8,
-     "p_champ": 0.5
+     "p_win": 98.9,
+     "p_champ": 0.6
     },
     {
      "team": "Australia",
-     "p_adv": 66.1,
+     "p_adv": 66.3,
      "p_win": 1.0,
      "p_champ": 0.2
     },
     {
      "team": "Paraguay",
-     "p_adv": 33.9,
+     "p_adv": 33.7,
      "p_win": 0.1,
-     "p_champ": 0.1
+     "p_champ": 0.2
     },
     {
      "team": "Turkey",
@@ -549,11 +549,11 @@
      "sortkey": "2026-06-12 21:00",
      "home": "United States",
      "away": "Paraguay",
-     "p1": 0.405,
-     "px": 0.284,
+     "p1": 0.404,
+     "px": 0.285,
      "p2": 0.31,
-     "lh": 1.44,
-     "la": 1.25,
+     "lh": 1.43,
+     "la": 1.24,
      "exp": "1.4–1.2",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -569,10 +569,10 @@
      "home": "Australia",
      "away": "Turkey",
      "p1": 0.334,
-     "px": 0.285,
+     "px": 0.286,
      "p2": 0.381,
-     "lh": 1.31,
-     "la": 1.4,
+     "lh": 1.3,
+     "la": 1.39,
      "exp": "1.3–1.4",
      "pred_score": "1-1",
      "pred_out": "2",
@@ -587,12 +587,12 @@
      "sortkey": "2026-06-19 15:00",
      "home": "United States",
      "away": "Australia",
-     "p1": 0.4,
-     "px": 0.274,
-     "p2": 0.326,
-     "lh": 1.5,
-     "la": 1.35,
-     "exp": "1.5–1.4",
+     "p1": 0.399,
+     "px": 0.275,
+     "p2": 0.325,
+     "lh": 1.49,
+     "la": 1.34,
+     "exp": "1.5–1.3",
      "pred_score": "1-1",
      "pred_out": "1",
      "played": true,
@@ -606,11 +606,11 @@
      "sortkey": "2026-06-19 23:00",
      "home": "Turkey",
      "away": "Paraguay",
-     "p1": 0.387,
-     "px": 0.295,
+     "p1": 0.386,
+     "px": 0.296,
      "p2": 0.318,
-     "lh": 1.34,
-     "la": 1.21,
+     "lh": 1.33,
+     "la": 1.2,
      "exp": "1.3–1.2",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -625,11 +625,11 @@
      "sortkey": "2026-06-25 22:00",
      "home": "United States",
      "away": "Turkey",
-     "p1": 0.395,
-     "px": 0.239,
-     "p2": 0.366,
-     "lh": 1.8,
-     "la": 1.74,
+     "p1": 0.394,
+     "px": 0.24,
+     "p2": 0.365,
+     "lh": 1.79,
+     "la": 1.73,
      "exp": "1.8–1.7",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -643,8 +643,8 @@
      "home": "Paraguay",
      "away": "Australia",
      "p1": 0.319,
-     "px": 0.341,
-     "p2": 0.34,
+     "px": 0.342,
+     "p2": 0.339,
      "lh": 1.0,
      "la": 1.04,
      "exp": "1.0–1.0",
@@ -661,23 +661,23 @@
      "team": "Germany",
      "p_adv": 100.0,
      "p_win": 99.7,
-     "p_champ": 5.8
+     "p_champ": 5.5
     },
     {
      "team": "Ivory Coast",
-     "p_adv": 88.2,
+     "p_adv": 88.4,
      "p_win": 0.3,
      "p_champ": 0.2
     },
     {
      "team": "Curaçao",
-     "p_adv": 7.2,
+     "p_adv": 7.0,
      "p_win": 0.0,
      "p_champ": 0.0
     },
     {
      "team": "Ecuador",
-     "p_adv": 4.6,
+     "p_adv": 4.5,
      "p_win": 0.0,
      "p_champ": 0.4
     }
@@ -693,7 +693,7 @@
      "p1": 0.958,
      "px": 0.033,
      "p2": 0.009,
-     "lh": 4.44,
+     "lh": 4.41,
      "la": 0.62,
      "exp": "4.4–0.6",
      "pred_score": "4-0",
@@ -710,13 +710,13 @@
      "home": "Ivory Coast",
      "away": "Ecuador",
      "p1": 0.21,
-     "px": 0.394,
+     "px": 0.395,
      "p2": 0.395,
      "lh": 0.63,
-     "la": 0.94,
+     "la": 0.93,
      "exp": "0.6–0.9",
      "pred_score": "0-0",
-     "pred_out": "2",
+     "pred_out": "X",
      "played": true,
      "actual": "1-0",
      "hit": false
@@ -728,11 +728,11 @@
      "sortkey": "2026-06-20 16:00",
      "home": "Germany",
      "away": "Ivory Coast",
-     "p1": 0.629,
-     "px": 0.223,
+     "p1": 0.628,
+     "px": 0.224,
      "p2": 0.148,
-     "lh": 2.0,
-     "la": 0.96,
+     "lh": 1.99,
+     "la": 0.95,
      "exp": "2.0–1.0",
      "pred_score": "1-0",
      "pred_out": "1",
@@ -747,10 +747,10 @@
      "sortkey": "2026-06-20 20:00",
      "home": "Ecuador",
      "away": "Curaçao",
-     "p1": 0.785,
-     "px": 0.171,
+     "p1": 0.784,
+     "px": 0.172,
      "p2": 0.044,
-     "lh": 2.07,
+     "lh": 2.06,
      "la": 0.41,
      "exp": "2.1–0.4",
      "pred_score": "2-0",
@@ -767,10 +767,10 @@
      "home": "Curaçao",
      "away": "Ivory Coast",
      "p1": 0.073,
-     "px": 0.184,
-     "p2": 0.743,
-     "lh": 0.63,
-     "la": 2.14,
+     "px": 0.185,
+     "p2": 0.741,
+     "lh": 0.62,
+     "la": 2.13,
      "exp": "0.6–2.1",
      "pred_score": "0-2",
      "pred_out": "2",
@@ -784,10 +784,10 @@
      "home": "Ecuador",
      "away": "Germany",
      "p1": 0.241,
-     "px": 0.313,
-     "p2": 0.447,
-     "lh": 0.93,
-     "la": 1.31,
+     "px": 0.314,
+     "p2": 0.446,
+     "lh": 0.92,
+     "la": 1.3,
      "exp": "0.9–1.3",
      "pred_score": "0-1",
      "pred_out": "2",
@@ -801,20 +801,20 @@
     {
      "team": "Netherlands",
      "p_adv": 99.3,
-     "p_win": 63.6,
-     "p_champ": 3.6
+     "p_win": 63.5,
+     "p_champ": 3.4
     },
     {
      "team": "Japan",
-     "p_adv": 75.9,
-     "p_win": 30.5,
-     "p_champ": 1.3
+     "p_adv": 75.7,
+     "p_win": 30.3,
+     "p_champ": 1.4
     },
     {
      "team": "Sweden",
-     "p_adv": 24.8,
-     "p_win": 5.9,
-     "p_champ": 0.1
+     "p_adv": 25.0,
+     "p_win": 6.2,
+     "p_champ": 0.2
     },
     {
      "team": "Tunisia",
@@ -831,11 +831,11 @@
      "sortkey": "2026-06-14 16:00",
      "home": "Netherlands",
      "away": "Japan",
-     "p1": 0.464,
-     "px": 0.253,
+     "p1": 0.463,
+     "px": 0.254,
      "p2": 0.283,
-     "lh": 1.76,
-     "la": 1.38,
+     "lh": 1.75,
+     "la": 1.37,
      "exp": "1.8–1.4",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -850,11 +850,11 @@
      "sortkey": "2026-06-14 22:00",
      "home": "Sweden",
      "away": "Tunisia",
-     "p1": 0.56,
-     "px": 0.233,
+     "p1": 0.559,
+     "px": 0.234,
      "p2": 0.208,
-     "lh": 1.99,
-     "la": 1.22,
+     "lh": 1.97,
+     "la": 1.21,
      "exp": "2.0–1.2",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -869,11 +869,11 @@
      "sortkey": "2026-06-20 13:00",
      "home": "Netherlands",
      "away": "Sweden",
-     "p1": 0.671,
-     "px": 0.175,
+     "p1": 0.67,
+     "px": 0.176,
      "p2": 0.154,
-     "lh": 2.69,
-     "la": 1.39,
+     "lh": 2.67,
+     "la": 1.38,
      "exp": "2.7–1.4",
      "pred_score": "2-1",
      "pred_out": "1",
@@ -889,10 +889,10 @@
      "home": "Tunisia",
      "away": "Japan",
      "p1": 0.118,
-     "px": 0.218,
-     "p2": 0.664,
-     "lh": 0.8,
-     "la": 1.98,
+     "px": 0.219,
+     "p2": 0.663,
+     "lh": 0.79,
+     "la": 1.96,
      "exp": "0.8–2.0",
      "pred_score": "0-2",
      "pred_out": "2",
@@ -907,11 +907,11 @@
      "sortkey": "2026-06-25 19:00",
      "home": "Japan",
      "away": "Sweden",
-     "p1": 0.545,
-     "px": 0.227,
+     "p1": 0.544,
+     "px": 0.228,
      "p2": 0.228,
-     "lh": 2.07,
-     "la": 1.36,
+     "lh": 2.05,
+     "la": 1.35,
      "exp": "2.1–1.4",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -925,10 +925,10 @@
      "home": "Tunisia",
      "away": "Netherlands",
      "p1": 0.074,
-     "px": 0.151,
-     "p2": 0.775,
+     "px": 0.152,
+     "p2": 0.774,
      "lh": 0.81,
-     "la": 2.57,
+     "la": 2.56,
      "exp": "0.8–2.6",
      "pred_score": "0-2",
      "pred_out": "2",
@@ -941,20 +941,20 @@
    "teams": [
     {
      "team": "Belgium",
-     "p_adv": 87.9,
-     "p_win": 34.0,
+     "p_adv": 88.2,
+     "p_win": 34.1,
      "p_champ": 2.6
     },
     {
      "team": "Egypt",
-     "p_adv": 69.6,
-     "p_win": 50.3,
+     "p_adv": 69.3,
+     "p_win": 50.5,
      "p_champ": 0.2
     },
     {
      "team": "Iran",
      "p_adv": 38.7,
-     "p_win": 15.7,
+     "p_win": 15.4,
      "p_champ": 0.1
     },
     {
@@ -972,11 +972,11 @@
      "sortkey": "2026-06-15 15:00",
      "home": "Belgium",
      "away": "Egypt",
-     "p1": 0.57,
-     "px": 0.266,
+     "p1": 0.569,
+     "px": 0.268,
      "p2": 0.163,
-     "lh": 1.64,
-     "la": 0.83,
+     "lh": 1.63,
+     "la": 0.82,
      "exp": "1.6–0.8",
      "pred_score": "1-0",
      "pred_out": "1",
@@ -991,10 +991,10 @@
      "sortkey": "2026-06-15 21:00",
      "home": "Iran",
      "away": "New Zealand",
-     "p1": 0.656,
-     "px": 0.216,
+     "p1": 0.654,
+     "px": 0.217,
      "p2": 0.128,
-     "lh": 2.03,
+     "lh": 2.01,
      "la": 0.87,
      "exp": "2.0–0.9",
      "pred_score": "2-0",
@@ -1010,11 +1010,11 @@
      "sortkey": "2026-06-21 15:00",
      "home": "Belgium",
      "away": "Iran",
-     "p1": 0.594,
-     "px": 0.238,
+     "p1": 0.593,
+     "px": 0.24,
      "p2": 0.168,
-     "lh": 1.88,
-     "la": 0.98,
+     "lh": 1.87,
+     "la": 0.97,
      "exp": "1.9–1.0",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -1030,10 +1030,10 @@
      "home": "New Zealand",
      "away": "Egypt",
      "p1": 0.137,
-     "px": 0.253,
-     "p2": 0.61,
+     "px": 0.254,
+     "p2": 0.608,
      "lh": 0.76,
-     "la": 1.71,
+     "la": 1.7,
      "exp": "0.8–1.7",
      "pred_score": "0-1",
      "pred_out": "2",
@@ -1049,10 +1049,10 @@
      "home": "Egypt",
      "away": "Iran",
      "p1": 0.329,
-     "px": 0.324,
+     "px": 0.326,
      "p2": 0.346,
-     "lh": 1.09,
-     "la": 1.12,
+     "lh": 1.08,
+     "la": 1.11,
      "exp": "1.1–1.1",
      "pred_score": "1-1",
      "pred_out": "2",
@@ -1066,11 +1066,11 @@
      "home": "New Zealand",
      "away": "Belgium",
      "p1": 0.039,
-     "px": 0.105,
-     "p2": 0.856,
-     "lh": 0.67,
-     "la": 2.96,
-     "exp": "0.7–3.0",
+     "px": 0.106,
+     "p2": 0.855,
+     "lh": 0.66,
+     "la": 2.94,
+     "exp": "0.7–2.9",
      "pred_score": "0-2",
      "pred_out": "2",
      "played": false
@@ -1083,26 +1083,26 @@
     {
      "team": "Spain",
      "p_adv": 93.3,
-     "p_win": 81.7,
-     "p_champ": 16.9
+     "p_win": 81.9,
+     "p_champ": 16.5
     },
     {
      "team": "Cape Verde",
-     "p_adv": 56.0,
+     "p_adv": 56.3,
      "p_win": 2.8,
      "p_champ": 0.0
     },
     {
      "team": "Saudi Arabia",
-     "p_adv": 26.5,
+     "p_adv": 26.3,
      "p_win": 0.0,
      "p_champ": 0.0
     },
     {
      "team": "Uruguay",
-     "p_adv": 24.2,
-     "p_win": 15.5,
-     "p_champ": 0.8
+     "p_adv": 24.0,
+     "p_win": 15.3,
+     "p_champ": 0.7
     }
    ],
    "matches": [
@@ -1113,10 +1113,10 @@
      "sortkey": "2026-06-15 12:00",
      "home": "Spain",
      "away": "Cape Verde",
-     "p1": 0.878,
-     "px": 0.094,
+     "p1": 0.877,
+     "px": 0.095,
      "p2": 0.027,
-     "lh": 2.93,
+     "lh": 2.91,
      "la": 0.52,
      "exp": "2.9–0.5",
      "pred_score": "2-0",
@@ -1133,10 +1133,10 @@
      "home": "Saudi Arabia",
      "away": "Uruguay",
      "p1": 0.097,
-     "px": 0.252,
-     "p2": 0.652,
+     "px": 0.253,
+     "p2": 0.65,
      "lh": 0.55,
-     "la": 1.65,
+     "la": 1.64,
      "exp": "0.6–1.6",
      "pred_score": "0-1",
      "pred_out": "2",
@@ -1151,12 +1151,12 @@
      "sortkey": "2026-06-21 12:00",
      "home": "Spain",
      "away": "Saudi Arabia",
-     "p1": 0.888,
-     "px": 0.089,
-     "p2": 0.023,
-     "lh": 2.95,
+     "p1": 0.886,
+     "px": 0.09,
+     "p2": 0.024,
+     "lh": 2.94,
      "la": 0.48,
-     "exp": "3.0–0.5",
+     "exp": "2.9–0.5",
      "pred_score": "2-0",
      "pred_out": "1",
      "played": true,
@@ -1170,10 +1170,10 @@
      "sortkey": "2026-06-21 18:00",
      "home": "Uruguay",
      "away": "Cape Verde",
-     "p1": 0.634,
-     "px": 0.257,
+     "p1": 0.633,
+     "px": 0.258,
      "p2": 0.109,
-     "lh": 1.64,
+     "lh": 1.63,
      "la": 0.6,
      "exp": "1.6–0.6",
      "pred_score": "1-0",
@@ -1189,11 +1189,11 @@
      "sortkey": "2026-06-26 20:00",
      "home": "Cape Verde",
      "away": "Saudi Arabia",
-     "p1": 0.356,
-     "px": 0.34,
-     "p2": 0.304,
-     "lh": 1.07,
-     "la": 0.98,
+     "p1": 0.355,
+     "px": 0.342,
+     "p2": 0.303,
+     "lh": 1.06,
+     "la": 0.97,
      "exp": "1.1–1.0",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -1206,11 +1206,11 @@
      "sortkey": "2026-06-26 20:00",
      "home": "Uruguay",
      "away": "Spain",
-     "p1": 0.153,
-     "px": 0.261,
-     "p2": 0.585,
-     "lh": 0.81,
-     "la": 1.67,
+     "p1": 0.154,
+     "px": 0.263,
+     "p2": 0.584,
+     "lh": 0.8,
+     "la": 1.66,
      "exp": "0.8–1.7",
      "pred_score": "0-1",
      "pred_out": "2",
@@ -1224,20 +1224,20 @@
     {
      "team": "France",
      "p_adv": 100.0,
-     "p_win": 72.5,
+     "p_win": 72.7,
      "p_champ": 7.4
     },
     {
      "team": "Norway",
      "p_adv": 100.0,
-     "p_win": 27.5,
-     "p_champ": 2.3
+     "p_win": 27.3,
+     "p_champ": 2.4
     },
     {
      "team": "Senegal",
      "p_adv": 0.0,
      "p_win": 0.0,
-     "p_champ": 0.2
+     "p_champ": 0.3
     },
     {
      "team": "Iraq",
@@ -1254,12 +1254,12 @@
      "sortkey": "2026-06-16 15:00",
      "home": "France",
      "away": "Senegal",
-     "p1": 0.622,
-     "px": 0.227,
+     "p1": 0.621,
+     "px": 0.228,
      "p2": 0.151,
-     "lh": 1.97,
+     "lh": 1.96,
      "la": 0.95,
-     "exp": "2.0–1.0",
+     "exp": "2.0–0.9",
      "pred_score": "1-1",
      "pred_out": "1",
      "played": true,
@@ -1273,11 +1273,11 @@
      "sortkey": "2026-06-16 18:00",
      "home": "Iraq",
      "away": "Norway",
-     "p1": 0.058,
-     "px": 0.134,
-     "p2": 0.808,
-     "lh": 0.75,
-     "la": 2.7,
+     "p1": 0.059,
+     "px": 0.135,
+     "p2": 0.806,
+     "lh": 0.74,
+     "la": 2.68,
      "exp": "0.7–2.7",
      "pred_score": "0-2",
      "pred_out": "2",
@@ -1292,11 +1292,11 @@
      "sortkey": "2026-06-22 17:00",
      "home": "France",
      "away": "Iraq",
-     "p1": 0.851,
-     "px": 0.113,
-     "p2": 0.035,
-     "lh": 2.73,
-     "la": 0.55,
+     "p1": 0.85,
+     "px": 0.115,
+     "p2": 0.036,
+     "lh": 2.71,
+     "la": 0.54,
      "exp": "2.7–0.5",
      "pred_score": "2-0",
      "pred_out": "1",
@@ -1312,9 +1312,9 @@
      "home": "Norway",
      "away": "Senegal",
      "p1": 0.529,
-     "px": 0.237,
-     "p2": 0.234,
-     "lh": 1.95,
+     "px": 0.238,
+     "p2": 0.233,
+     "lh": 1.94,
      "la": 1.3,
      "exp": "1.9–1.3",
      "pred_score": "1-1",
@@ -1331,10 +1331,10 @@
      "home": "Norway",
      "away": "France",
      "p1": 0.258,
-     "px": 0.239,
+     "px": 0.24,
      "p2": 0.502,
      "lh": 1.39,
-     "la": 1.93,
+     "la": 1.91,
      "exp": "1.4–1.9",
      "pred_score": "1-1",
      "pred_out": "2",
@@ -1347,11 +1347,11 @@
      "sortkey": "2026-06-26 15:00",
      "home": "Senegal",
      "away": "Iraq",
-     "p1": 0.643,
-     "px": 0.234,
-     "p2": 0.123,
-     "lh": 1.85,
-     "la": 0.77,
+     "p1": 0.641,
+     "px": 0.235,
+     "p2": 0.124,
+     "lh": 1.84,
+     "la": 0.76,
      "exp": "1.8–0.8",
      "pred_score": "1-0",
      "pred_out": "1",
@@ -1365,20 +1365,20 @@
     {
      "team": "Argentina",
      "p_adv": 100.0,
-     "p_win": 99.9,
-     "p_champ": 22.4
+     "p_win": 99.8,
+     "p_champ": 22.2
     },
     {
      "team": "Austria",
-     "p_adv": 69.9,
-     "p_win": 0.1,
+     "p_adv": 69.3,
+     "p_win": 0.2,
      "p_champ": 0.7
     },
     {
      "team": "Algeria",
-     "p_adv": 30.1,
+     "p_adv": 30.7,
      "p_win": 0.0,
-     "p_champ": 0.2
+     "p_champ": 0.3
     },
     {
      "team": "Jordan",
@@ -1395,10 +1395,10 @@
      "sortkey": "2026-06-16 21:00",
      "home": "Argentina",
      "away": "Algeria",
-     "p1": 0.737,
-     "px": 0.186,
+     "p1": 0.736,
+     "px": 0.187,
      "p2": 0.077,
-     "lh": 2.14,
+     "lh": 2.13,
      "la": 0.65,
      "exp": "2.1–0.6",
      "pred_score": "2-0",
@@ -1414,12 +1414,12 @@
      "sortkey": "2026-06-17 00:00",
      "home": "Austria",
      "away": "Jordan",
-     "p1": 0.688,
-     "px": 0.193,
+     "p1": 0.687,
+     "px": 0.195,
      "p2": 0.118,
-     "lh": 2.25,
-     "la": 0.94,
-     "exp": "2.3–0.9",
+     "lh": 2.24,
+     "la": 0.93,
+     "exp": "2.2–0.9",
      "pred_score": "2-0",
      "pred_out": "1",
      "played": true,
@@ -1433,10 +1433,10 @@
      "sortkey": "2026-06-22 13:00",
      "home": "Argentina",
      "away": "Austria",
-     "p1": 0.653,
-     "px": 0.236,
+     "p1": 0.652,
+     "px": 0.237,
      "p2": 0.111,
-     "lh": 1.8,
+     "lh": 1.79,
      "la": 0.68,
      "exp": "1.8–0.7",
      "pred_score": "1-0",
@@ -1453,10 +1453,10 @@
      "home": "Jordan",
      "away": "Algeria",
      "p1": 0.164,
-     "px": 0.213,
-     "p2": 0.623,
-     "lh": 1.12,
-     "la": 2.15,
+     "px": 0.214,
+     "p2": 0.621,
+     "lh": 1.11,
+     "la": 2.14,
      "exp": "1.1–2.1",
      "pred_score": "1-2",
      "pred_out": "2",
@@ -1472,11 +1472,11 @@
      "home": "Algeria",
      "away": "Austria",
      "p1": 0.286,
-     "px": 0.272,
+     "px": 0.273,
      "p2": 0.441,
-     "lh": 1.26,
-     "la": 1.57,
-     "exp": "1.3–1.6",
+     "lh": 1.25,
+     "la": 1.56,
+     "exp": "1.2–1.6",
      "pred_score": "1-1",
      "pred_out": "2",
      "played": false
@@ -1490,9 +1490,9 @@
      "away": "Argentina",
      "p1": 0.021,
      "px": 0.082,
-     "p2": 0.897,
+     "p2": 0.896,
      "lh": 0.48,
-     "la": 3.07,
+     "la": 3.05,
      "exp": "0.5–3.1",
      "pred_score": "0-3",
      "pred_out": "2",
@@ -1505,26 +1505,26 @@
    "teams": [
     {
      "team": "Colombia",
-     "p_adv": 88.2,
-     "p_win": 57.8,
-     "p_champ": 4.8
+     "p_adv": 100.0,
+     "p_win": 69.9,
+     "p_champ": 5.1
     },
     {
      "team": "Portugal",
-     "p_adv": 77.7,
-     "p_win": 35.6,
+     "p_adv": 81.0,
+     "p_win": 29.8,
      "p_champ": 5.5
     },
     {
      "team": "DR Congo",
-     "p_adv": 26.6,
-     "p_win": 5.8,
+     "p_adv": 11.3,
+     "p_win": 0.0,
      "p_champ": 0.1
     },
     {
      "team": "Uzbekistan",
-     "p_adv": 7.5,
-     "p_win": 0.9,
+     "p_adv": 7.7,
+     "p_win": 0.4,
      "p_champ": 0.0
     }
    ],
@@ -1536,12 +1536,12 @@
      "sortkey": "2026-06-17 13:00",
      "home": "Portugal",
      "away": "DR Congo",
-     "p1": 0.678,
-     "px": 0.223,
-     "p2": 0.099,
-     "lh": 1.88,
-     "la": 0.66,
-     "exp": "1.9–0.7",
+     "p1": 0.67,
+     "px": 0.229,
+     "p2": 0.101,
+     "lh": 1.83,
+     "la": 0.65,
+     "exp": "1.8–0.6",
      "pred_score": "1-0",
      "pred_out": "1",
      "played": true,
@@ -1555,12 +1555,12 @@
      "sortkey": "2026-06-17 22:00",
      "home": "Uzbekistan",
      "away": "Colombia",
-     "p1": 0.087,
-     "px": 0.196,
-     "p2": 0.716,
-     "lh": 0.69,
-     "la": 2.08,
-     "exp": "0.7–2.1",
+     "p1": 0.086,
+     "px": 0.199,
+     "p2": 0.715,
+     "lh": 0.66,
+     "la": 2.05,
+     "exp": "0.7–2.0",
      "pred_score": "0-2",
      "pred_out": "2",
      "played": true,
@@ -1574,10 +1574,10 @@
      "sortkey": "2026-06-23 13:00",
      "home": "Portugal",
      "away": "Uzbekistan",
-     "p1": 0.757,
-     "px": 0.171,
+     "p1": 0.756,
+     "px": 0.172,
      "p2": 0.072,
-     "lh": 2.29,
+     "lh": 2.27,
      "la": 0.68,
      "exp": "2.3–0.7",
      "pred_score": "2-0",
@@ -1591,15 +1591,17 @@
      "sortkey": "2026-06-23 22:00",
      "home": "Colombia",
      "away": "DR Congo",
-     "p1": 0.635,
-     "px": 0.248,
+     "p1": 0.627,
+     "px": 0.257,
      "p2": 0.116,
-     "lh": 1.71,
-     "la": 0.67,
-     "exp": "1.7–0.7",
+     "lh": 1.65,
+     "la": 0.64,
+     "exp": "1.6–0.6",
      "pred_score": "1-0",
      "pred_out": "1",
-     "played": false
+     "played": true,
+     "actual": "1-0",
+     "hit": true
     },
     {
      "stage": "Grupo K",
@@ -1608,12 +1610,12 @@
      "sortkey": "2026-06-27 19:30",
      "home": "Colombia",
      "away": "Portugal",
-     "p1": 0.329,
-     "px": 0.268,
-     "p2": 0.403,
-     "lh": 1.41,
-     "la": 1.56,
-     "exp": "1.4–1.6",
+     "p1": 0.332,
+     "px": 0.272,
+     "p2": 0.395,
+     "lh": 1.38,
+     "la": 1.51,
+     "exp": "1.4–1.5",
      "pred_score": "1-1",
      "pred_out": "2",
      "played": false
@@ -1625,11 +1627,11 @@
      "sortkey": "2026-06-27 19:30",
      "home": "DR Congo",
      "away": "Uzbekistan",
-     "p1": 0.362,
-     "px": 0.366,
-     "p2": 0.271,
-     "lh": 0.98,
-     "la": 0.83,
+     "p1": 0.359,
+     "px": 0.372,
+     "p2": 0.268,
+     "lh": 0.96,
+     "la": 0.8,
      "exp": "1.0–0.8",
      "pred_score": "0-0",
      "pred_out": "X",
@@ -1642,25 +1644,25 @@
    "teams": [
     {
      "team": "England",
-     "p_adv": 99.2,
-     "p_win": 93.8,
-     "p_champ": 9.4
+     "p_adv": 99.3,
+     "p_win": 93.9,
+     "p_champ": 10.0
     },
     {
      "team": "Croatia",
-     "p_adv": 71.3,
+     "p_adv": 71.1,
      "p_win": 3.1,
      "p_champ": 1.0
     },
     {
      "team": "Ghana",
      "p_adv": 26.9,
-     "p_win": 3.0,
+     "p_win": 2.9,
      "p_champ": 0.0
     },
     {
      "team": "Panama",
-     "p_adv": 2.6,
+     "p_adv": 2.7,
      "p_win": 0.1,
      "p_champ": 0.0
     }
@@ -1673,10 +1675,10 @@
      "sortkey": "2026-06-17 16:00",
      "home": "England",
      "away": "Croatia",
-     "p1": 0.561,
-     "px": 0.251,
+     "p1": 0.56,
+     "px": 0.252,
      "p2": 0.188,
-     "lh": 1.79,
+     "lh": 1.77,
      "la": 1.01,
      "exp": "1.8–1.0",
      "pred_score": "1-1",
@@ -1692,11 +1694,11 @@
      "sortkey": "2026-06-17 19:00",
      "home": "Ghana",
      "away": "Panama",
-     "p1": 0.406,
-     "px": 0.291,
+     "p1": 0.405,
+     "px": 0.292,
      "p2": 0.303,
-     "lh": 1.4,
-     "la": 1.2,
+     "lh": 1.39,
+     "la": 1.19,
      "exp": "1.4–1.2",
      "pred_score": "1-1",
      "pred_out": "1",
@@ -1711,11 +1713,11 @@
      "sortkey": "2026-06-23 16:00",
      "home": "England",
      "away": "Ghana",
-     "p1": 0.815,
-     "px": 0.138,
-     "p2": 0.046,
-     "lh": 2.48,
-     "la": 0.57,
+     "p1": 0.814,
+     "px": 0.14,
+     "p2": 0.047,
+     "lh": 2.47,
+     "la": 0.56,
      "exp": "2.5–0.6",
      "pred_score": "2-0",
      "pred_out": "1",
@@ -1729,10 +1731,10 @@
      "home": "Panama",
      "away": "Croatia",
      "p1": 0.085,
-     "px": 0.162,
-     "p2": 0.753,
+     "px": 0.163,
+     "p2": 0.752,
      "lh": 0.86,
-     "la": 2.5,
+     "la": 2.49,
      "exp": "0.9–2.5",
      "pred_score": "0-2",
      "pred_out": "2",
@@ -1746,10 +1748,10 @@
      "home": "Panama",
      "away": "England",
      "p1": 0.031,
-     "px": 0.095,
-     "p2": 0.874,
+     "px": 0.097,
+     "p2": 0.873,
      "lh": 0.58,
-     "la": 2.99,
+     "la": 2.97,
      "exp": "0.6–3.0",
      "pred_score": "0-2",
      "pred_out": "2",
@@ -1762,10 +1764,10 @@
      "sortkey": "2026-06-27 17:00",
      "home": "Croatia",
      "away": "Ghana",
-     "p1": 0.677,
-     "px": 0.208,
+     "p1": 0.676,
+     "px": 0.209,
      "p2": 0.115,
-     "lh": 2.08,
+     "lh": 2.06,
      "la": 0.83,
      "exp": "2.1–0.8",
      "pred_score": "2-0",
@@ -1781,62 +1783,62 @@
    {
     "pos": 1,
     "team": "Argentina",
-    "epos": 7.7,
-    "pchamp": 22.4
+    "epos": 7.6,
+    "pchamp": 22.2
    },
    {
     "pos": 2,
     "team": "Spain",
-    "epos": 10.3,
-    "pchamp": 16.9
+    "epos": 10.5,
+    "pchamp": 16.5
    },
    {
     "pos": 3,
-    "team": "Germany",
-    "epos": 11.0,
-    "pchamp": 5.8
+    "team": "England",
+    "epos": 10.7,
+    "pchamp": 10.0
    },
    {
     "pos": 4,
-    "team": "England",
-    "epos": 11.1,
-    "pchamp": 9.4
+    "team": "Germany",
+    "epos": 11.2,
+    "pchamp": 5.5
    },
    {
     "pos": 5,
     "team": "France",
-    "epos": 11.6,
+    "epos": 11.5,
     "pchamp": 7.4
    },
    {
     "pos": 6,
     "team": "Colombia",
-    "epos": 13.0,
-    "pchamp": 4.8
+    "epos": 11.9,
+    "pchamp": 5.1
    },
    {
     "pos": 7,
     "team": "Brazil",
     "epos": 13.3,
-    "pchamp": 6.6
+    "pchamp": 6.4
    },
    {
     "pos": 8,
     "team": "Norway",
-    "epos": 13.6,
-    "pchamp": 2.3
+    "epos": 13.7,
+    "pchamp": 2.4
    },
    {
     "pos": 9,
     "team": "Switzerland",
-    "epos": 14.3,
+    "epos": 14.4,
     "pchamp": 1.6
    },
    {
     "pos": 10,
     "team": "United States",
     "epos": 15.2,
-    "pchamp": 0.5
+    "pchamp": 0.6
    }
   ],
   "tiers": [
@@ -1845,15 +1847,15 @@
     "options": [
      {
       "team": "Argentina",
-      "p": 22.4
+      "p": 22.2
      },
      {
       "team": "Spain",
-      "p": 16.9
+      "p": 16.5
      },
      {
       "team": "England",
-      "p": 9.4
+      "p": 10.0
      }
     ]
    },
@@ -1861,16 +1863,16 @@
     "label": "Subcampeón (2°)",
     "options": [
      {
-      "team": "Spain",
-      "p": 11.6
-     },
-     {
       "team": "Argentina",
       "p": 11.6
      },
      {
+      "team": "Spain",
+      "p": 11.5
+     },
+     {
       "team": "England",
-      "p": 7.3
+      "p": 7.4
      }
     ]
    },
@@ -1879,19 +1881,19 @@
     "options": [
      {
       "team": "Argentina",
-      "p": 16.7
+      "p": 17.0
      },
      {
       "team": "England",
-      "p": 15.6
+      "p": 16.0
      },
      {
       "team": "Spain",
-      "p": 14.4
+      "p": 14.0
      },
      {
-      "team": "Germany",
-      "p": 12.4
+      "team": "France",
+      "p": 12.6
      }
     ]
    },
@@ -1900,7 +1902,7 @@
     "options": [
      {
       "team": "Colombia",
-      "p": 21.9
+      "p": 24.1
      },
      {
       "team": "United States",
@@ -1908,19 +1910,19 @@
      },
      {
       "team": "England",
-      "p": 20.6
-     },
-     {
-      "team": "Germany",
-      "p": 18.9
-     },
-     {
-      "team": "Switzerland",
-      "p": 18.5
+      "p": 21.0
      },
      {
       "team": "Argentina",
+      "p": 18.8
+     },
+     {
+      "team": "Germany",
       "p": 18.5
+     },
+     {
+      "team": "Switzerland",
+      "p": 18.2
      }
     ]
    },
@@ -1928,20 +1930,20 @@
     "label": "Octavofinalistas (9°–16°)",
     "options": [
      {
-      "team": "Canada",
-      "p": 37.7
+      "team": "Switzerland",
+      "p": 38.0
      },
      {
-      "team": "Switzerland",
-      "p": 37.7
+      "team": "Canada",
+      "p": 38.0
      },
      {
       "team": "Norway",
-      "p": 37.5
+      "p": 37.7
      },
      {
       "team": "Germany",
-      "p": 37.3
+      "p": 37.1
      }
     ]
    }
@@ -1961,8 +1963,8 @@
       "fecha": "23-Jun",
       "local": "Portugal",
       "visitante": "Uzbekistan",
-      "p1": 75.7,
-      "px": 17.1,
+      "p1": 75.6,
+      "px": 17.2,
       "p2": 7.2,
       "fav": "1",
       "scores": [
@@ -1972,7 +1974,7 @@
        ],
        [
         "1-0",
-        11.5
+        11.6
        ],
        [
         "3-0",
@@ -1980,35 +1982,7 @@
        ],
        [
         "2-1",
-        9.2
-       ]
-      ]
-     },
-     {
-      "grupo": "K",
-      "fecha": "23-Jun",
-      "local": "Colombia",
-      "visitante": "DR Congo",
-      "p1": 63.5,
-      "px": 24.8,
-      "p2": 11.6,
-      "fav": "1",
-      "scores": [
-       [
-        "1-0",
-        15.5
-       ],
-       [
-        "2-0",
-        13.5
-       ],
-       [
-        "1-1",
-        10.9
-       ],
-       [
-        "0-0",
-        9.6
+        9.1
        ]
       ]
      },
@@ -2017,14 +1991,14 @@
       "fecha": "23-Jun",
       "local": "England",
       "visitante": "Ghana",
-      "p1": 81.5,
-      "px": 13.8,
-      "p2": 4.6,
+      "p1": 81.4,
+      "px": 14.0,
+      "p2": 4.7,
       "fav": "1",
       "scores": [
        [
         "2-0",
-        14.6
+        14.7
        ],
        [
         "3-0",
@@ -2032,7 +2006,7 @@
        ],
        [
         "1-0",
-        11.6
+        11.7
        ],
        [
         "2-1",
@@ -2046,25 +2020,25 @@
       "local": "Panama",
       "visitante": "Croatia",
       "p1": 8.5,
-      "px": 16.2,
-      "p2": 75.3,
+      "px": 16.3,
+      "p2": 75.2,
       "fav": "2",
       "scores": [
        [
         "0-2",
-        10.8
+        10.9
        ],
        [
         "1-2",
-        9.3
+        9.4
        ],
        [
         "0-3",
-        9.0
+        9.1
        ],
        [
         "0-1",
-        8.4
+        8.5
        ]
       ]
      }
@@ -2078,18 +2052,18 @@
       "fecha": "24-Jun",
       "local": "South Africa",
       "visitante": "South Korea",
-      "p1": 22.5,
-      "px": 28.7,
-      "p2": 48.9,
+      "p1": 22.4,
+      "px": 28.8,
+      "p2": 48.8,
       "fav": "2",
       "scores": [
        [
         "1-1",
-        12.7
+        12.8
        ],
        [
         "0-1",
-        12.2
+        12.3
        ],
        [
         "0-2",
@@ -2106,14 +2080,14 @@
       "fecha": "24-Jun",
       "local": "Mexico",
       "visitante": "Czech Republic",
-      "p1": 51.1,
-      "px": 25.9,
+      "p1": 51.0,
+      "px": 26.0,
       "p2": 23.0,
       "fav": "1",
       "scores": [
        [
         "1-1",
-        11.5
+        11.6
        ],
        [
         "2-1",
@@ -2121,7 +2095,35 @@
        ],
        [
         "1-0",
-        9.4
+        9.5
+       ],
+       [
+        "2-0",
+        8.5
+       ]
+      ]
+     },
+     {
+      "grupo": "B",
+      "fecha": "24-Jun",
+      "local": "Bosnia and Herzegovina",
+      "visitante": "Qatar",
+      "p1": 54.6,
+      "px": 24.3,
+      "p2": 21.1,
+      "fav": "1",
+      "scores": [
+       [
+        "1-1",
+        10.8
+       ],
+       [
+        "2-1",
+        9.8
+       ],
+       [
+        "1-0",
+        8.6
        ],
        [
         "2-0",
@@ -2132,44 +2134,16 @@
      {
       "grupo": "B",
       "fecha": "24-Jun",
-      "local": "Bosnia and Herzegovina",
-      "visitante": "Qatar",
-      "p1": 54.7,
-      "px": 24.1,
-      "p2": 21.1,
-      "fav": "1",
-      "scores": [
-       [
-        "1-1",
-        10.7
-       ],
-       [
-        "2-1",
-        9.8
-       ],
-       [
-        "1-0",
-        8.5
-       ],
-       [
-        "2-0",
-        8.3
-       ]
-      ]
-     },
-     {
-      "grupo": "B",
-      "fecha": "24-Jun",
       "local": "Canada",
       "visitante": "Switzerland",
       "p1": 29.2,
-      "px": 25.1,
-      "p2": 45.7,
+      "px": 25.2,
+      "p2": 45.6,
       "fav": "2",
       "scores": [
        [
         "1-1",
-        10.7
+        10.8
        ],
        [
         "1-2",
@@ -2177,11 +2151,11 @@
        ],
        [
         "2-1",
-        7.3
+        7.4
        ],
        [
         "0-1",
-        6.9
+        7.0
        ]
       ]
      },
@@ -2190,14 +2164,14 @@
       "fecha": "24-Jun",
       "local": "Morocco",
       "visitante": "Haiti",
-      "p1": 82.1,
-      "px": 13.6,
+      "p1": 82.0,
+      "px": 13.7,
       "p2": 4.3,
       "fav": "1",
       "scores": [
        [
         "2-0",
-        15.0
+        15.1
        ],
        [
         "3-0",
@@ -2205,7 +2179,7 @@
        ],
        [
         "1-0",
-        11.9
+        12.1
        ],
        [
         "2-1",
@@ -2219,21 +2193,21 @@
       "local": "Scotland",
       "visitante": "Brazil",
       "p1": 12.7,
-      "px": 22.4,
-      "p2": 64.8,
+      "px": 22.5,
+      "p2": 64.7,
       "fav": "2",
       "scores": [
        [
         "0-1",
-        11.9
+        12.0
        ],
        [
         "0-2",
-        11.8
+        11.9
        ],
        [
         "1-1",
-        10.4
+        10.5
        ],
        [
         "1-2",
@@ -2246,14 +2220,14 @@
       "fecha": "25-Jun",
       "local": "United States",
       "visitante": "Turkey",
-      "p1": 39.5,
-      "px": 23.9,
-      "p2": 36.6,
+      "p1": 39.4,
+      "px": 24.0,
+      "p2": 36.5,
       "fav": "1",
       "scores": [
        [
         "1-1",
-        9.4
+        9.5
        ],
        [
         "2-1",
@@ -2275,8 +2249,8 @@
       "local": "Paraguay",
       "visitante": "Australia",
       "p1": 31.9,
-      "px": 34.1,
-      "p2": 34.0,
+      "px": 34.2,
+      "p2": 33.9,
       "fav": "X",
       "scores": [
        [
@@ -2285,15 +2259,15 @@
        ],
        [
         "0-0",
-        13.4
+        13.5
        ],
        [
         "0-1",
-        13.0
+        13.1
        ],
        [
         "1-0",
-        12.5
+        12.6
        ]
       ]
      },
@@ -2303,21 +2277,21 @@
       "local": "Curaçao",
       "visitante": "Ivory Coast",
       "p1": 7.3,
-      "px": 18.4,
-      "p2": 74.3,
+      "px": 18.5,
+      "p2": 74.1,
       "fav": "2",
       "scores": [
        [
         "0-2",
-        14.4
+        14.5
        ],
        [
         "0-1",
-        13.2
+        13.3
        ],
        [
         "0-3",
-        10.3
+        10.2
        ],
        [
         "1-2",
@@ -2331,13 +2305,13 @@
       "local": "Ecuador",
       "visitante": "Germany",
       "p1": 24.1,
-      "px": 31.3,
-      "p2": 44.7,
+      "px": 31.4,
+      "p2": 44.6,
       "fav": "2",
       "scores": [
        [
         "0-1",
-        13.6
+        13.7
        ],
        [
         "1-1",
@@ -2345,11 +2319,11 @@
        ],
        [
         "0-0",
-        11.1
+        11.3
        ],
        [
         "1-0",
-        9.5
+        9.6
        ]
       ]
      },
@@ -2358,25 +2332,25 @@
       "fecha": "25-Jun",
       "local": "Japan",
       "visitante": "Sweden",
-      "p1": 54.5,
-      "px": 22.7,
+      "p1": 54.4,
+      "px": 22.8,
       "p2": 22.8,
       "fav": "1",
       "scores": [
        [
         "1-1",
-        9.4
+        9.5
        ],
        [
         "2-1",
-        9.4
+        9.5
        ],
        [
         "2-0",
-        6.9
+        7.0
        ],
        [
-        "3-1",
+        "1-0",
         6.5
        ]
       ]
@@ -2387,13 +2361,13 @@
       "local": "Tunisia",
       "visitante": "Netherlands",
       "p1": 7.4,
-      "px": 15.1,
-      "p2": 77.5,
+      "px": 15.2,
+      "p2": 77.4,
       "fav": "2",
       "scores": [
        [
         "0-2",
-        11.2
+        11.3
        ],
        [
         "0-3",
@@ -2405,7 +2379,7 @@
        ],
        [
         "0-1",
-        8.5
+        8.6
        ]
       ]
      },
@@ -2415,24 +2389,24 @@
       "local": "New Zealand",
       "visitante": "Belgium",
       "p1": 3.9,
-      "px": 10.5,
-      "p2": 85.6,
+      "px": 10.6,
+      "p2": 85.5,
       "fav": "2",
       "scores": [
        [
         "0-2",
-        11.7
+        11.8
        ],
        [
         "0-3",
-        11.5
+        11.6
        ],
        [
         "0-4",
         8.5
        ],
        [
-        "1-2",
+        "0-1",
         7.8
        ]
       ]
@@ -2443,7 +2417,7 @@
       "local": "Egypt",
       "visitante": "Iran",
       "p1": 32.9,
-      "px": 32.4,
+      "px": 32.6,
       "p2": 34.6,
       "fav": "2",
       "scores": [
@@ -2453,15 +2427,15 @@
        ],
        [
         "0-1",
-        11.8
+        12.0
        ],
        [
         "1-0",
-        11.5
+        11.6
        ],
        [
         "0-0",
-        11.4
+        11.6
        ]
       ]
      },
@@ -2470,14 +2444,14 @@
       "fecha": "26-Jun",
       "local": "Uruguay",
       "visitante": "Spain",
-      "p1": 15.3,
-      "px": 26.1,
-      "p2": 58.5,
+      "p1": 15.4,
+      "px": 26.3,
+      "p2": 58.4,
       "fav": "2",
       "scores": [
        [
         "0-1",
-        13.7
+        13.8
        ],
        [
         "0-2",
@@ -2498,9 +2472,9 @@
       "fecha": "26-Jun",
       "local": "Cape Verde",
       "visitante": "Saudi Arabia",
-      "p1": 35.6,
-      "px": 34.0,
-      "p2": 30.4,
+      "p1": 35.5,
+      "px": 34.2,
+      "p2": 30.3,
       "fav": "1",
       "scores": [
        [
@@ -2508,16 +2482,16 @@
         13.9
        ],
        [
-        "1-0",
-        13.4
+        "0-0",
+        13.5
        ],
        [
-        "0-0",
-        13.4
+        "1-0",
+        13.5
        ],
        [
         "0-1",
-        12.2
+        12.3
        ]
       ]
      },
@@ -2526,18 +2500,18 @@
       "fecha": "26-Jun",
       "local": "Senegal",
       "visitante": "Iraq",
-      "p1": 64.3,
-      "px": 23.4,
-      "p2": 12.3,
+      "p1": 64.1,
+      "px": 23.5,
+      "p2": 12.4,
       "fav": "1",
       "scores": [
        [
         "1-0",
-        13.2
+        13.3
        ],
        [
         "2-0",
-        12.5
+        12.6
        ],
        [
         "1-1",
@@ -2555,17 +2529,17 @@
       "local": "Norway",
       "visitante": "France",
       "p1": 25.8,
-      "px": 23.9,
+      "px": 24.0,
       "p2": 50.2,
       "fav": "2",
       "scores": [
        [
         "1-1",
-        10.0
+        10.1
        ],
        [
         "1-2",
-        9.3
+        9.4
        ],
        [
         "2-1",
@@ -2573,7 +2547,7 @@
        ],
        [
         "0-2",
-        6.7
+        6.8
        ]
       ]
      },
@@ -2583,7 +2557,7 @@
       "local": "Algeria",
       "visitante": "Austria",
       "p1": 28.6,
-      "px": 27.2,
+      "px": 27.3,
       "p2": 44.1,
       "fav": "2",
       "scores": [
@@ -2597,10 +2571,10 @@
        ],
        [
         "0-1",
-        8.9
+        9.0
        ],
        [
-        "2-1",
+        "0-2",
         7.3
        ]
       ]
@@ -2612,7 +2586,7 @@
       "visitante": "Argentina",
       "p1": 2.1,
       "px": 8.2,
-      "p2": 89.7,
+      "p2": 89.6,
       "fav": "2",
       "scores": [
        [
@@ -2621,7 +2595,7 @@
        ],
        [
         "0-2",
-        13.5
+        13.6
        ],
        [
         "0-4",
@@ -2629,7 +2603,7 @@
        ],
        [
         "0-1",
-        8.7
+        8.8
        ]
       ]
      },
@@ -2638,26 +2612,26 @@
       "fecha": "27-Jun",
       "local": "Colombia",
       "visitante": "Portugal",
-      "p1": 32.9,
-      "px": 26.8,
-      "p2": 40.3,
+      "p1": 33.2,
+      "px": 27.2,
+      "p2": 39.5,
       "fav": "2",
       "scores": [
        [
         "1-1",
-        11.7
+        11.9
        ],
        [
         "1-2",
-        8.8
+        8.7
        ],
        [
         "2-1",
-        7.9
+        8.0
        ],
        [
         "0-1",
-        7.7
+        8.0
        ]
       ]
      },
@@ -2666,18 +2640,18 @@
       "fecha": "27-Jun",
       "local": "DR Congo",
       "visitante": "Uzbekistan",
-      "p1": 36.2,
-      "px": 36.6,
-      "p2": 27.1,
+      "p1": 35.9,
+      "px": 37.2,
+      "p2": 26.8,
       "fav": "X",
       "scores": [
        [
         "0-0",
-        16.8
+        17.6
        ],
        [
         "1-0",
-        15.7
+        16.0
        ],
        [
         "1-1",
@@ -2685,7 +2659,7 @@
        ],
        [
         "0-1",
-        13.1
+        13.4
        ]
       ]
      },
@@ -2695,13 +2669,13 @@
       "local": "Panama",
       "visitante": "England",
       "p1": 3.1,
-      "px": 9.5,
-      "p2": 87.4,
+      "px": 9.7,
+      "p2": 87.3,
       "fav": "2",
       "scores": [
        [
         "0-2",
-        12.5
+        12.6
        ],
        [
         "0-3",
@@ -2713,7 +2687,7 @@
        ],
        [
         "0-1",
-        8.2
+        8.3
        ]
       ]
      },
@@ -2722,26 +2696,26 @@
       "fecha": "27-Jun",
       "local": "Croatia",
       "visitante": "Ghana",
-      "p1": 67.7,
-      "px": 20.8,
+      "p1": 67.6,
+      "px": 20.9,
       "p2": 11.5,
       "fav": "1",
       "scores": [
        [
         "2-0",
-        11.7
+        11.8
        ],
        [
         "1-0",
-        11.0
+        11.1
+       ],
+       [
+        "1-1",
+        9.8
        ],
        [
         "2-1",
         9.8
-       ],
-       [
-        "1-1",
-        9.7
        ]
       ]
      }
