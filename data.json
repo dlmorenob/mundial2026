@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-02 05:00 UTC",
+ "generated": "2026-07-02 05:38 UTC",
  "scorecard": {
   "played": 82,
   "total": 91,
@@ -2135,7 +2135,7 @@
    "lh": 1.71,
    "la": 1.05,
    "exp": "1.7–1.0",
-   "pred_score": "1-1",
+   "pred_score": "1-0",
    "pred_out": "1",
    "necesidad": "",
    "played": false
@@ -2153,7 +2153,7 @@
    "lh": 1.76,
    "la": 1.2,
    "exp": "1.8–1.2",
-   "pred_score": "1-0",
+   "pred_score": "1-1",
    "pred_out": "1",
    "necesidad": "",
    "played": false
