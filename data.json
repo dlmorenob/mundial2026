@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-04 13:00 UTC",
+ "generated": "2026-07-04 17:00 UTC",
  "scorecard": {
   "played": 88,
   "total": 96,
@@ -10,37 +10,37 @@
  "champions": [
   {
    "team": "Argentina",
-   "p": 19.8,
+   "p": 19.3,
    "group": "J"
   },
   {
    "team": "Spain",
-   "p": 17.8,
+   "p": 18.1,
    "group": "H"
   },
   {
    "team": "France",
-   "p": 12.7,
+   "p": 13.1,
    "group": "I"
   },
   {
-   "team": "Brazil",
-   "p": 10.2,
-   "group": "C"
-  },
-  {
    "team": "England",
-   "p": 9.9,
+   "p": 10.2,
    "group": "L"
   },
   {
+   "team": "Brazil",
+   "p": 10.1,
+   "group": "C"
+  },
+  {
    "team": "Portugal",
-   "p": 7.2,
+   "p": 7.4,
    "group": "K"
   },
   {
    "team": "Colombia",
-   "p": 5.6,
+   "p": 5.3,
    "group": "K"
   },
   {
@@ -55,17 +55,17 @@
   },
   {
    "team": "Switzerland",
-   "p": 2.2,
+   "p": 2.1,
    "group": "B"
   },
   {
    "team": "Mexico",
-   "p": 1.6,
+   "p": 1.7,
    "group": "A"
   },
   {
    "team": "Norway",
-   "p": 1.5,
+   "p": 1.4,
    "group": "I"
   },
   {
@@ -80,7 +80,7 @@
   },
   {
    "team": "United States",
-   "p": 0.6,
+   "p": 0.5,
    "group": "D"
   },
   {
@@ -97,7 +97,7 @@
      "team": "Mexico",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 1.6
+     "p_champ": 1.7
     },
     {
      "team": "South Africa",
@@ -254,7 +254,7 @@
      "team": "Switzerland",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 2.2
+     "p_champ": 2.1
     },
     {
      "team": "Bosnia and Herzegovina",
@@ -399,7 +399,7 @@
      "team": "Brazil",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 10.2
+     "p_champ": 10.1
     },
     {
      "team": "Morocco",
@@ -550,7 +550,7 @@
      "team": "United States",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 0.6
+     "p_champ": 0.5
     },
     {
      "team": "Australia",
@@ -1154,7 +1154,7 @@
      "team": "Spain",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 17.8
+     "p_champ": 18.1
     },
     {
      "team": "Cape Verde",
@@ -1305,13 +1305,13 @@
      "team": "France",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 12.7
+     "p_champ": 13.1
     },
     {
      "team": "Norway",
      "p_adv": 100.0,
      "p_win": 0.0,
-     "p_champ": 1.5
+     "p_champ": 1.4
     },
     {
      "team": "Senegal",
@@ -1456,7 +1456,7 @@
      "team": "Argentina",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 19.8
+     "p_champ": 19.3
     },
     {
      "team": "Austria",
@@ -1607,13 +1607,13 @@
      "team": "Portugal",
      "p_adv": 100.0,
      "p_win": 0.0,
-     "p_champ": 7.2
+     "p_champ": 7.4
     },
     {
      "team": "Colombia",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 5.6
+     "p_champ": 5.3
     },
     {
      "team": "DR Congo",
@@ -1758,7 +1758,7 @@
      "team": "England",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 9.9
+     "p_champ": 10.2
     },
     {
      "team": "Croatia",
@@ -2375,31 +2375,31 @@
     "pos": 1,
     "team": "Argentina",
     "epos": 5.2,
-    "pchamp": 19.8
+    "pchamp": 19.3
    },
    {
     "pos": 2,
     "team": "France",
     "epos": 5.9,
-    "pchamp": 12.7
+    "pchamp": 13.1
    },
    {
     "pos": 3,
-    "team": "Brazil",
+    "team": "Spain",
     "epos": 6.9,
-    "pchamp": 10.2
+    "pchamp": 18.1
    },
    {
     "pos": 4,
-    "team": "Spain",
+    "team": "Brazil",
     "epos": 6.9,
-    "pchamp": 17.8
+    "pchamp": 10.1
    },
    {
     "pos": 5,
     "team": "England",
     "epos": 7.0,
-    "pchamp": 9.9
+    "pchamp": 10.2
    },
    {
     "pos": 6,
@@ -2417,19 +2417,19 @@
     "pos": 8,
     "team": "Colombia",
     "epos": 8.0,
-    "pchamp": 5.6
+    "pchamp": 5.3
    },
    {
     "pos": 9,
     "team": "Portugal",
-    "epos": 9.0,
-    "pchamp": 7.2
+    "epos": 9.1,
+    "pchamp": 7.4
    },
    {
     "pos": 10,
     "team": "Switzerland",
-    "epos": 9.5,
-    "pchamp": 2.2
+    "epos": 9.4,
+    "pchamp": 2.1
    }
   ],
   "tiers": [
@@ -2438,15 +2438,15 @@
     "options": [
      {
       "team": "Argentina",
-      "p": 19.8
+      "p": 19.3
      },
      {
       "team": "Spain",
-      "p": 17.8
+      "p": 18.1
      },
      {
       "team": "France",
-      "p": 12.7
+      "p": 13.1
      }
     ]
    },
@@ -2455,15 +2455,15 @@
     "options": [
      {
       "team": "Argentina",
-      "p": 13.5
+      "p": 13.9
      },
      {
       "team": "France",
-      "p": 12.5
+      "p": 12.3
      },
      {
       "team": "Spain",
-      "p": 12.2
+      "p": 12.1
      }
     ]
    },
@@ -2472,19 +2472,19 @@
     "options": [
      {
       "team": "France",
-      "p": 24.6
+      "p": 24.5
      },
      {
       "team": "Argentina",
-      "p": 21.2
+      "p": 21.3
      },
      {
       "team": "Brazil",
-      "p": 18.5
+      "p": 18.2
      },
      {
       "team": "England",
-      "p": 17.8
+      "p": 17.6
      }
     ]
    },
@@ -2493,27 +2493,27 @@
     "options": [
      {
       "team": "Belgium",
-      "p": 44.2
+      "p": 44.8
      },
      {
       "team": "Morocco",
-      "p": 33.7
+      "p": 33.8
      },
      {
       "team": "Colombia",
-      "p": 33.3
+      "p": 32.8
      },
      {
       "team": "Brazil",
-      "p": 30.0
+      "p": 30.2
      },
      {
       "team": "England",
-      "p": 29.6
+      "p": 29.4
      },
      {
       "team": "Argentina",
-      "p": 27.7
+      "p": 27.9
      }
     ]
    },
@@ -2522,19 +2522,19 @@
     "options": [
      {
       "team": "Egypt",
-      "p": 82.1
+      "p": 82.5
      },
      {
       "team": "Paraguay",
-      "p": 76.0
+      "p": 76.4
      },
      {
       "team": "Norway",
-      "p": 68.1
+      "p": 68.0
      },
      {
       "team": "United States",
-      "p": 67.0
+      "p": 67.1
      }
     ]
    }
