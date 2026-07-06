@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-06 17:00 UTC",
+ "generated": "2026-07-06 21:00 UTC",
  "scorecard": {
   "played": 92,
   "total": 98,
@@ -10,12 +10,12 @@
  "champions": [
   {
    "team": "Argentina",
-   "p": 18.8,
+   "p": 19.3,
    "group": "J"
   },
   {
    "team": "Spain",
-   "p": 17.2,
+   "p": 17.6,
    "group": "H"
   },
   {
@@ -25,32 +25,32 @@
   },
   {
    "team": "France",
-   "p": 16.2,
+   "p": 15.9,
    "group": "I"
   },
   {
    "team": "Morocco",
-   "p": 7.8,
+   "p": 7.6,
    "group": "C"
   },
   {
    "team": "Portugal",
-   "p": 6.9,
+   "p": 6.8,
    "group": "K"
   },
   {
    "team": "Colombia",
-   "p": 5.2,
+   "p": 5.3,
    "group": "K"
   },
   {
    "team": "Norway",
-   "p": 4.7,
+   "p": 4.3,
    "group": "I"
   },
   {
    "team": "Belgium",
-   "p": 3.9,
+   "p": 3.8,
    "group": "G"
   },
   {
@@ -405,7 +405,7 @@
      "team": "Morocco",
      "p_adv": 100.0,
      "p_win": 0.0,
-     "p_champ": 7.8
+     "p_champ": 7.6
     },
     {
      "team": "Haiti",
@@ -1003,7 +1003,7 @@
      "team": "Belgium",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 3.9
+     "p_champ": 3.8
     },
     {
      "team": "Egypt",
@@ -1154,7 +1154,7 @@
      "team": "Spain",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 17.2
+     "p_champ": 17.6
     },
     {
      "team": "Cape Verde",
@@ -1305,13 +1305,13 @@
      "team": "France",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 16.2
+     "p_champ": 15.9
     },
     {
      "team": "Norway",
      "p_adv": 100.0,
      "p_win": 0.0,
-     "p_champ": 4.7
+     "p_champ": 4.3
     },
     {
      "team": "Senegal",
@@ -1456,7 +1456,7 @@
      "team": "Argentina",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 18.8
+     "p_champ": 19.3
     },
     {
      "team": "Austria",
@@ -1607,13 +1607,13 @@
      "team": "Portugal",
      "p_adv": 100.0,
      "p_win": 0.0,
-     "p_champ": 6.9
+     "p_champ": 6.8
     },
     {
      "team": "Colombia",
      "p_adv": 100.0,
      "p_win": 100.0,
-     "p_champ": 5.2
+     "p_champ": 5.3
     },
     {
      "team": "DR Congo",
@@ -2425,49 +2425,49 @@
     "pos": 2,
     "team": "France",
     "epos": 4.1,
-    "pchamp": 16.2
+    "pchamp": 15.9
    },
    {
     "pos": 3,
     "team": "Morocco",
     "epos": 4.9,
-    "pchamp": 7.8
+    "pchamp": 7.6
    },
    {
     "pos": 4,
-    "team": "Norway",
+    "team": "Argentina",
     "epos": 5.2,
-    "pchamp": 4.7
+    "pchamp": 19.3
    },
    {
     "pos": 5,
-    "team": "Argentina",
-    "epos": 5.3,
-    "pchamp": 18.8
+    "team": "Norway",
+    "epos": 5.2,
+    "pchamp": 4.3
    },
    {
     "pos": 6,
     "team": "Spain",
-    "epos": 6.9,
-    "pchamp": 17.2
+    "epos": 6.8,
+    "pchamp": 17.6
    },
    {
     "pos": 7,
     "team": "Belgium",
     "epos": 7.6,
-    "pchamp": 3.9
+    "pchamp": 3.8
    },
    {
     "pos": 8,
     "team": "Colombia",
-    "epos": 8.1,
-    "pchamp": 5.2
+    "epos": 8.0,
+    "pchamp": 5.3
    },
    {
     "pos": 9,
     "team": "Portugal",
     "epos": 9.1,
-    "pchamp": 6.9
+    "pchamp": 6.8
    },
    {
     "pos": 10,
@@ -2482,11 +2482,11 @@
     "options": [
      {
       "team": "Argentina",
-      "p": 18.8
+      "p": 19.3
      },
      {
       "team": "Spain",
-      "p": 17.2
+      "p": 17.6
      },
      {
       "team": "England",
@@ -2499,15 +2499,15 @@
     "options": [
      {
       "team": "England",
-      "p": 16.8
+      "p": 17.4
      },
      {
       "team": "Argentina",
-      "p": 14.6
+      "p": 14.7
      },
      {
       "team": "France",
-      "p": 14.0
+      "p": 13.8
      }
     ]
    },
@@ -2516,11 +2516,11 @@
     "options": [
      {
       "team": "England",
-      "p": 31.0
+      "p": 31.6
      },
      {
       "team": "France",
-      "p": 28.8
+      "p": 29.1
      },
      {
       "team": "Morocco",
@@ -2528,7 +2528,7 @@
      },
      {
       "team": "Norway",
-      "p": 21.9
+      "p": 21.8
      }
     ]
    },
@@ -2537,27 +2537,27 @@
     "options": [
      {
       "team": "Norway",
-      "p": 64.3
+      "p": 65.5
      },
      {
       "team": "Morocco",
-      "p": 59.0
+      "p": 58.9
      },
      {
       "team": "Belgium",
-      "p": 45.8
+      "p": 45.9
      },
      {
       "team": "France",
-      "p": 41.0
+      "p": 41.1
      },
      {
       "team": "England",
-      "p": 35.7
+      "p": 34.5
      },
      {
       "team": "Colombia",
-      "p": 32.5
+      "p": 33.0
      }
     ]
    },
