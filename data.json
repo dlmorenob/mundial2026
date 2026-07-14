@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-14 09:00 UTC",
+ "generated": "2026-07-14 17:00 UTC",
  "scorecard": {
   "played": 100,
   "total": 104,
@@ -2495,7 +2495,7 @@
    "lh": 0.98,
    "la": 1.14,
    "exp": "1.0–1.1",
-   "pred_score": "0-1",
+   "pred_score": "1-1",
    "pred_out": "2",
    "necesidad": "",
    "played": false
