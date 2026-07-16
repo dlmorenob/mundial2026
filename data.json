@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16 17:00 UTC",
+ "generated": "2026-07-16 20:24 UTC",
  "scorecard": {
   "played": 102,
   "total": 104,
@@ -2517,7 +2517,7 @@
    "lh": 1.24,
    "la": 1.14,
    "exp": "1.2–1.1",
-   "pred_score": "1-0",
+   "pred_score": "0-2",
    "pred_out": "1",
    "necesidad": "",
    "played": false
@@ -2535,7 +2535,7 @@
    "lh": 1.22,
    "la": 0.99,
    "exp": "1.2–1.0",
-   "pred_score": "1-0",
+   "pred_score": "1-2",
    "pred_out": "1",
    "necesidad": "",
    "played": false
@@ -2569,13 +2569,13 @@
    },
    {
     "pos": 5,
-    "team": "Belgium",
+    "team": "Norway",
     "epos": 6.5,
     "pchamp": 0.0
    },
    {
     "pos": 6,
-    "team": "Norway",
+    "team": "Belgium",
     "epos": 6.5,
     "pchamp": 0.0
    },
@@ -2593,13 +2593,13 @@
    },
    {
     "pos": 9,
-    "team": "Paraguay",
+    "team": "Canada",
     "epos": 12.5,
     "pchamp": 0.0
    },
    {
     "pos": 10,
-    "team": "Canada",
+    "team": "Egypt",
     "epos": 12.5,
     "pchamp": 0.0
    }
@@ -2617,7 +2617,7 @@
       "p": 43.1
      },
      {
-      "team": "Mexico",
+      "team": "Iran",
       "p": 0.0
      }
     ]
@@ -2634,7 +2634,7 @@
       "p": 43.1
      },
      {
-      "team": "Mexico",
+      "team": "Iran",
       "p": 0.0
      }
     ]
@@ -2643,11 +2643,11 @@
     "label": "Semifinalistas (3°–4°)",
     "options": [
      {
-      "team": "France",
+      "team": "England",
       "p": 100.0
      },
      {
-      "team": "England",
+      "team": "France",
       "p": 100.0
      },
      {
@@ -2655,7 +2655,7 @@
       "p": 0.0
      },
      {
-      "team": "Argentina",
+      "team": "Senegal",
       "p": 0.0
      }
     ]
@@ -2664,15 +2664,11 @@
     "label": "Cuartofinalistas (5°–8°)",
     "options": [
      {
-      "team": "Switzerland",
-      "p": 100.0
-     },
-     {
       "team": "Morocco",
       "p": 100.0
      },
      {
-      "team": "Norway",
+      "team": "Switzerland",
       "p": 100.0
      },
      {
@@ -2680,11 +2676,15 @@
       "p": 100.0
      },
      {
-      "team": "Canada",
+      "team": "Norway",
+      "p": 100.0
+     },
+     {
+      "team": "Spain",
       "p": 0.0
      },
      {
-      "team": "Bosnia and Herzegovina",
+      "team": "Senegal",
       "p": 0.0
      }
     ]
@@ -2692,6 +2692,10 @@
    {
     "label": "Octavofinalistas (9°–16°)",
     "options": [
+     {
+      "team": "Paraguay",
+      "p": 100.0
+     },
      {
       "team": "Mexico",
       "p": 100.0
@@ -2701,11 +2705,7 @@
       "p": 100.0
      },
      {
-      "team": "United States",
-      "p": 100.0
-     },
-     {
-      "team": "Brazil",
+      "team": "Colombia",
       "p": 100.0
      }
     ]
