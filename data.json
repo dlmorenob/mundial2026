@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16 20:24 UTC",
+ "generated": "2026-07-16 20:25 UTC",
  "scorecard": {
   "played": 102,
   "total": 104,
@@ -2569,13 +2569,13 @@
    },
    {
     "pos": 5,
-    "team": "Norway",
+    "team": "Belgium",
     "epos": 6.5,
     "pchamp": 0.0
    },
    {
     "pos": 6,
-    "team": "Belgium",
+    "team": "Norway",
     "epos": 6.5,
     "pchamp": 0.0
    },
@@ -2593,13 +2593,13 @@
    },
    {
     "pos": 9,
-    "team": "Canada",
+    "team": "Paraguay",
     "epos": 12.5,
     "pchamp": 0.0
    },
    {
     "pos": 10,
-    "team": "Egypt",
+    "team": "Canada",
     "epos": 12.5,
     "pchamp": 0.0
    }
@@ -2617,7 +2617,7 @@
       "p": 43.1
      },
      {
-      "team": "Iran",
+      "team": "Mexico",
       "p": 0.0
      }
     ]
@@ -2634,7 +2634,7 @@
       "p": 43.1
      },
      {
-      "team": "Iran",
+      "team": "Mexico",
       "p": 0.0
      }
     ]
@@ -2643,11 +2643,11 @@
     "label": "Semifinalistas (3°–4°)",
     "options": [
      {
-      "team": "England",
+      "team": "France",
       "p": 100.0
      },
      {
-      "team": "France",
+      "team": "England",
       "p": 100.0
      },
      {
@@ -2655,7 +2655,7 @@
       "p": 0.0
      },
      {
-      "team": "Senegal",
+      "team": "Argentina",
       "p": 0.0
      }
     ]
@@ -2664,15 +2664,11 @@
     "label": "Cuartofinalistas (5°–8°)",
     "options": [
      {
-      "team": "Morocco",
-      "p": 100.0
-     },
-     {
       "team": "Switzerland",
       "p": 100.0
      },
      {
-      "team": "Belgium",
+      "team": "Morocco",
       "p": 100.0
      },
      {
@@ -2680,11 +2676,15 @@
       "p": 100.0
      },
      {
-      "team": "Spain",
+      "team": "Belgium",
+      "p": 100.0
+     },
+     {
+      "team": "Canada",
       "p": 0.0
      },
      {
-      "team": "Senegal",
+      "team": "Bosnia and Herzegovina",
       "p": 0.0
      }
     ]
@@ -2692,10 +2692,6 @@
    {
     "label": "Octavofinalistas (9°–16°)",
     "options": [
-     {
-      "team": "Paraguay",
-      "p": 100.0
-     },
      {
       "team": "Mexico",
       "p": 100.0
@@ -2705,7 +2701,11 @@
       "p": 100.0
      },
      {
-      "team": "Colombia",
+      "team": "United States",
+      "p": 100.0
+     },
+     {
+      "team": "Brazil",
       "p": 100.0
      }
     ]
